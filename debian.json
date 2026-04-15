@@ -8,7 +8,6 @@
       "icon": "https://armbian.com",
       "url": "https://dl.armbian.com/rock-5-itx/Trixie_vendor_minimal",
       "size": 285212672,
-      "md5sum": "f6cc866d7121aba0a8f73eab57a56e39c62b449e",
       "installation_method": "dd"
     }
   ]
