@@ -1,13 +1,13 @@
 {
   "os_list": [
     {
-      "name": "Radxa OS (Debian 12)",
-      "description": "Official Radxa OS based on Debian 12 for ROCK 5 series.",
-      "version": "v1.0.0",
-      "release_date": "2024-01-01",
-      "icon": "https://armbian.com",
-      "url": "https://dl.armbian.com/rock-5-itx/Trixie_vendor_minimal",
-      "size": 285212672,
+      "name": "ROCK 5 ITX Debian 12 b3",
+      "description": "Official Radxa Debian 12 (Bookworm) CLI for ROCK 5 ITX (Kernel 6.1)",
+      "version": "b3",
+      "release_date": "2024-03-25",
+      "icon": "https://radxa.com",
+      "url": "https://radxa.com",
+      "size": 473489816,
       "installation_method": "dd"
     }
   ]
