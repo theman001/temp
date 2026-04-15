@@ -1,0 +1,14 @@
+{
+  "os_list": [
+    {
+      "name": "Armbian Debian 13 (Trixie)",
+      "description": "Rock 5 ITX용 Armbian Minimal (CLI) 이미지입니다.",
+      "version": "26.2.1",
+      "release_date": "2024-05-20",
+      "icon": "https://armbian.com",
+      "url": "https://dl.armbian.com/rock-5-itx/Trixie_vendor_minimal",
+      "size": 285212672,
+      "installation_method": "dd"
+    }
+  ]
+}
